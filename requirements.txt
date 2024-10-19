@@ -1,0 +1,9 @@
+streamlit
+cohere
+pinecone-client
+python-dotenv
+PyPDF2
+python-docx
+tqdm
+langchain
+
